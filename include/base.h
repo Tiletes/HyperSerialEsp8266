@@ -31,7 +31,7 @@
 class Base
 {
 	// LED strip number
-	int ledsNumber = 0;
+	int ledsNumber = 300;
 	// NeoPixelBusLibrary primary object
 	LED_DRIVER* ledStrip1 = nullptr;
 	// frame is set and ready to render
